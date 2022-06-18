@@ -1,7 +1,7 @@
 # Take the tentacle in your arms and let it caress you
  Stroke the silver stitched through the innermost part 
  of the soft, pillowy limb. The creature will respond.
- Be gentle and take comfort.
+ **Be gentle and take comfort.**
  
  ------------------------------
  
@@ -14,3 +14,8 @@
  each electrode.
  
  ------------------------------
+
+ Code for the board and purr sound file are in this repo. Instructions for making the 
+ physical object can be found in Hackspace Magazine 36. 
+ 
+ Download a free PDF <https://hackspace.raspberrypi.com/issues/36>
