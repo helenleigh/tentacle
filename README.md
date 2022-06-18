@@ -1,5 +1,5 @@
 # Take the tentacle in your arms and let it caress you
- Stroke the vein of silver stitched through the innermost part 
+ Stroke the silver stitched through the innermost part 
  of the soft, pillowy limb. The creature will respond.
  Be gentle and take comfort.
  
